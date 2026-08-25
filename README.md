@@ -25,7 +25,6 @@ Proyecto individual para la materia **Software Factory II**.
 - [ ] Menú para volver a jugar o salir
 
 ## Capturas de pantalla
-*(Se agregarán capturas del juego cuando el módulo gráfico esté implementado)*
 
 ## Cómo ejecutar
 
