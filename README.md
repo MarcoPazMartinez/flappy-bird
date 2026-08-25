@@ -26,6 +26,9 @@ Proyecto individual para la materia **Software Factory II**.
 
 ## Capturas de pantalla
 
+<img width="1290" height="260" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/c0738070-4207-4cc0-b9c5-acc99cc058c1" />
+
+
 ## Cómo ejecutar
 
 ### Requisitos previos
